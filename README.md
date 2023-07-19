@@ -14,6 +14,7 @@ Besides the Android app, the distribution application also has a browser-based d
 The webservice records the logs and useful statistics, stores them in the database, and displays the data on the dashboard.
 
 # Diagram
+The following is a diagram of the components for this part of the NBA application:
 
 ![Diagram-Full](https://github.com/ziangit/nbaAppAndroidApplication/assets/110576506/933c8a2c-71bc-4e66-adb6-1616e620664f)
 
